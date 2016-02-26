@@ -5,6 +5,9 @@ I find it most difficult to understand certain aspects of Computer Engineering. 
 
 Greets,
 Rui Sá
+<<<<<<< HEAD
 
 managing a little mischief muahaha
 blablabal
+=======
+>>>>>>> refs/remotes/origin/master
