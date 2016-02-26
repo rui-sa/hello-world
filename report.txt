@@ -1,6 +1,3 @@
-Good morning
+Hello
 
-I'm at college.
-
-Greets,
-Rui Sá
+I'm here 
