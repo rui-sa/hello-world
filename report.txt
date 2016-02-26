@@ -1,7 +1,6 @@
-Hi folks!
+Hello,
 
-I'm learning Github.
-
+Nice to meet you :)
 
 Greets,
 Rui Sá
